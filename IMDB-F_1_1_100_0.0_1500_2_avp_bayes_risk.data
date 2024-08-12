@@ -1,0 +1,2 @@
+iter, hl, mif1, avp, log_loss, hl_te, mif1_te, avp_te, log_loss_te, hl_val, mif1_val, avp_val, log_loss_val, sparsity, weight_mu, weight_std
+243,0.075262, 0.813826, 0.366079, 16.033792, 0.075216, 0.814653, 0.362056, 16.014135, 0.075253, 0.813805, 0.365333, 15.997352, 426800.710445, -0.015024, 4.687204
